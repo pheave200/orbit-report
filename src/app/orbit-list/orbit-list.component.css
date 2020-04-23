@@ -4,7 +4,9 @@
 }
 
 .warning {
-    background-color: yellow;
+    background-color: red;
+    font-style: italic;
+    font-size: larger;
 }
 
 table {
