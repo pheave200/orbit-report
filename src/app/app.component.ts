@@ -29,7 +29,7 @@ export class AppComponent {
  
        }.bind(this));
     }.bind(this));
-
+    
   }
   search(searchTerm: string): void {
     let matchingSatellites: Satellite[] = [];
